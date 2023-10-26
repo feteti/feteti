@@ -1,5 +1,5 @@
-- Hi, I’m Felipe Teti, 22yrs old, Electrical Engineering Student at Escola Politécnica - Universidade de São Paulo.
--  I’m interested in applied math, quantitative finance and data science. Python is the language who I program most of my scripts. 
+- Hi, I’m Felipe Teti, 23yrs old, Electrical Engineering Student at Escola Politécnica - Universidade de São Paulo.
+-  I’m interested in quantitative finance, Control Theory and data science. Python is the language who I program most of my scripts. 
 -  You can reach me using feteti@gmail.com or twitter @tetifelipe.
 -  Currently in an internship as Fixed Income Desk Strategist at Morgan Stanley. 
 
